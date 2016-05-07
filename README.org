@@ -1,0 +1,13 @@
+#+TITLE: discuss-on-hn
+
+BDOHNAAS, or “Button ‘Discuss on HN’ as a Service”.
+
+* Usage
+
+  There +is+ would be running instance on [[http://discuss-on-hn.xyz][discuss-on-hn.xyz]].
+
+* License
+
+  Copyright © 2016 Marinin Tim <mt@marinin.xyz>
+
+  This software is under MIT license.
