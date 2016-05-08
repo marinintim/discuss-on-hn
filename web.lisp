@@ -8,11 +8,12 @@
 <title>Discuss on HN</title>
 <h1>Discuss on HN</h1>
 <h2>Summary</h2>
-<p>Button “Discuss on HN” as a Service -- gives you a link from page to its hn discussion.
- </p>
+<p>Button “Discuss on HN” as a Service -- redirect you from page to its HN discussion.</p>
 <h2>Usage</h2>
- <p>Link to <a href=\"https://discuss-on-hn/go\">//discuss-on-hn.xyz/go?u=your-page-url</a>. If you don't
+ <p>For site owners: Link to <a href=\"https://discuss-on-hn.xyz/go\">https://discuss-on-hn.xyz/go?u=your-page-url</a>. If you don't
 pass <code>u</code> parameter, DoHN will try to use <code>Referer</code> header, but that's a bit unreliable.</p>
+<p>For users: Nudge site owner to include link, or, if you like bookmarklets, use this: <a href=\"javascript:location.href='https://discuss-on-hn.xyz/go?u='+encodeURIComponent(location.href)\">Discuss on HN</a>
+<p>Try it out: <a href=\"/go\">discuss Discuss-on-HN on HN (so meta)</a> will redirect you to Show HN thread for Discuss on HN.</p>
 <h2>Author</h2>
 <p>Built by <a href=\"http://marinin.xyz\">Marinin Tim</a>, source code is available <a href=\"https://github.com/marinintim/discuss-on-hn\">at Github</a></p>
 
