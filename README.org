@@ -6,7 +6,7 @@ BDOHNAAS, or “Button ‘Discuss on HN’ as a Service”.
 
   There is running instance on
   [[https://discuss-on-hn.xyz][discuss-on-hn.xyz]]. I also plan to post
-  [[https://discuss-on-hn.xyz/go][to HN]].
+  [[https://discuss-on-hn.xyz/go?u=discuss-on-hn.xyz][to HN]].
 
 * License
 
